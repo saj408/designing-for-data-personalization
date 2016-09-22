@@ -69,6 +69,7 @@ Email slover@nyu.edu with a link to you blog. I will add it to a list here:
 * [Ian](http://www.iancgibson.com/category/fall-2016/data-personalization/)
 * [An](http://www.xingjianan.com/category/fall-2016/designing-for-data-personalization/)
 * [Xiqiao](http://www.zhouxiqiao.com/?cat=15)
+* [Skylar] (http://www.skylarjessen.com/datapersonalization)
 
 Listserv
 --------
